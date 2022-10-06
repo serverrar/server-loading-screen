@@ -1,2 +1,1 @@
-# server-loading-screen
-Full Config 
+Support : discord.gg/sneakylife
